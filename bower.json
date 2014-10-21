@@ -1,0 +1,27 @@
+{
+  "name": "redactor-old-port",
+  "version": "0.1.0",
+  "authors": [
+    "ahmar siddiqui <ahmar.siddiqui@gmail.com>"
+  ],
+  "description": "port to the older version of redactorJS",
+  "main": "redactor/redactor.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "WYSWIG",
+    "editor"
+  ],
+"devDependencies":{
+	"jquery":"*"
+},
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
