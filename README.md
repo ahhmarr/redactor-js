@@ -1,8 +1,14 @@
 redactor-js
 ===========
 
-# Repo not maintained. Proceed with caution or refer to http://imperavi.com/redactor/
-##Happy to transfer ownership if you want to maintain a fork.
+# Version of v8.2.2
+## This is the older version of redactor . 
+## If you are looking for a more robust and comercial version check out http://imperavi.com/redactor/
+
+
+###Install
+
+	bower install redactor-old-port
 
 jQuery based WYSIWYG-editor, official author's website: http://redactorjs.com/
 
