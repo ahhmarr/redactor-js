@@ -1,9 +1,8 @@
 redactor-js
 ===========
 
-# Version of v8.2.2
-## This is the older version of redactor . 
-## If you are looking for a more robust and comercial version check out http://imperavi.com/redactor/
+## Version v8.2.2
+#### Note: This is an older and free version ,if you are looking for a more robust and comercial version check out http://imperavi.com/redactor/
 
 
 ###Install
